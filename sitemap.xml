@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/mobilelearning/</loc>
+    <loc>https://thehacker.training/mobilelearning/</loc>
   </url><url>
-    <loc>http://localhost:1313/mobilelearning/mobil-sizma-testi-araclari/</loc>
+    <loc>https://thehacker.training/mobilelearning/mobil-sizma-testi-araclari/</loc>
   </url><url>
-    <loc>http://localhost:1313/mobilelearning/ssrf/</loc>
+    <loc>https://thehacker.training/mobilelearning/ssrf/</loc>
   </url><url>
-    <loc>http://localhost:1313/news/joomla/</loc>
+    <loc>https://thehacker.training/news/joomla/</loc>
   </url><url>
-    <loc>http://localhost:1313/weblearning/</loc>
+    <loc>https://thehacker.training/weblearning/</loc>
   </url><url>
-    <loc>http://localhost:1313/weblearning/lfi/</loc>
+    <loc>https://thehacker.training/weblearning/lfi/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://thehacker.training/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://thehacker.training/</loc>
   </url><url>
-    <loc>http://localhost:1313/news/</loc>
+    <loc>https://thehacker.training/news/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://thehacker.training/tags/</loc>
   </url>
 </urlset>
